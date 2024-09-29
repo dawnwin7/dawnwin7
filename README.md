@@ -18,7 +18,7 @@
 
 ## Find Me
 - X: [@Dawnwin7](https://x.com/dawnwin7)
-- Github: [dawnwin7](https://github.com/dawnwin7)
+- GitHub: [dawnwin7](https://github.com/dawnwin7)
 
 <!---
 dawnwin7/dawnwin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
