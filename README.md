@@ -7,7 +7,7 @@
 - 🎧 I'm really into musics.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,go,rust,js,fastapi,nextjs,tailwind,git,github,gitlab,linux,docker,kubernetes,nginx,mongodb,mysql,redis,postman,md,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,rust,js,ts,fastapi,react,nextjs,tailwind,git,github,gitlab,linux,docker,kubernetes,nginx,mongodb,postgres,supabase,redis,postman,md,discord&theme=dark)](https://skillicons.dev)
 
 ## What I Do
 - 🧠 Learn Large Language Models.
